@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo.png" width="128" alt="logo" />
+  <img src="https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/logo.png" width="128" alt="logo" />
 </p>
 
 <h1 align="center">RK3568 智能终端演示系统</h1>
@@ -100,11 +100,11 @@ rk3568_demo/
 
 | 登录界面 | 桌面主界面 |
 |:---:|:---:|
-| ![登录](docs/images/bg_login.png) | ![桌面](docs/images/bg_home.png) |
+| ![登录](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_login.png) | ![桌面](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_home.png) |
 
 | 游戏中心 | 电子相册 | 音乐播放器 |
 |:---:|:---:|:---:|
-| ![游戏](docs/images/bg_game.png) | ![相册](docs/images/bg_album.png) | ![音乐](docs/images/bg_music.png) |
+| ![游戏](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_game.png) | ![相册](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_album.png) | ![音乐](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_music.png) |
 
 ## 编译与运行
 
