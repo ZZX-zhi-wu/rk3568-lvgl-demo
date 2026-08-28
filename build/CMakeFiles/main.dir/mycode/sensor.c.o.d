@@ -1,0 +1,33 @@
+CMakeFiles/main.dir/mycode/sensor.c.o: \
+ /mnt/hgfs/share/rk3568_demo/mycode/sensor.c \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdc-predef.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdio.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/libc-header-start.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/features.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/long-double.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs-lp64.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stddef.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/types.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/libio.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/_G_config.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/wchar.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stdarg.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/stdio_lim.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/sys_errlist.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/math.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/math-vector.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/libm-simd-decl-stubs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/huge_val.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/huge_valf.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/huge_vall.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/inf.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/nan.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/flt-eval-method.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/fp-logb.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/fp-fast.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/mathcalls.h \
+ /mnt/hgfs/share/rk3568_demo/mycode/sensor.h

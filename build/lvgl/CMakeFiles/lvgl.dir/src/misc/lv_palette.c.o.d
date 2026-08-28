@@ -1,0 +1,32 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_palette.c.o: \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_palette.c \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdc-predef.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_palette.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_color.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/../lv_conf_internal.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/../lv_conf_kconfig.h \
+ /mnt/hgfs/share/rk3568_demo/lv_conf.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_assert.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_log.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stdint.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdint.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/libc-header-start.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/features.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/long-double.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs-lp64.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/types.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/wchar.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_types.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/../stdlib/lv_mem.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stddef.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/string.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/xlocale.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_math.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stdbool.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/misc/lv_color_op.h

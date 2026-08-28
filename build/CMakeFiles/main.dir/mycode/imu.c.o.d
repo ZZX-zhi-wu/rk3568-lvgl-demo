@@ -1,0 +1,21 @@
+CMakeFiles/main.dir/mycode/imu.c.o: \
+ /mnt/hgfs/share/rk3568_demo/mycode/imu.c \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdc-predef.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdio.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/libc-header-start.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/features.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/long-double.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs-lp64.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stddef.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/types.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/libio.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/_G_config.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/wchar.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stdarg.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/stdio_lim.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/sys_errlist.h \
+ /mnt/hgfs/share/rk3568_demo/mycode/imu.h

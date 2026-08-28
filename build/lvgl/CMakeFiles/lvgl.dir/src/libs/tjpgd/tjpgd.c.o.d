@@ -1,0 +1,20 @@
+lvgl/CMakeFiles/lvgl.dir/src/libs/tjpgd/tjpgd.c.o: \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/libs/tjpgd/tjpgd.c \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdc-predef.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/libs/tjpgd/tjpgd.h \
+ /mnt/hgfs/share/rk3568_demo/lvgl/src/libs/tjpgd/tjpgdcnf.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/string.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/libc-header-start.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/features.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/long-double.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/gnu/stubs-lp64.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stddef.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/xlocale.h \
+ /usr/local/arm-linux/lib/gcc/aarch64-linux-gnu/7.5.0/include/stdint.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/stdint.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/types.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /usr/local/arm-linux/aarch64-linux-gnu/libc/usr/include/bits/wchar.h
