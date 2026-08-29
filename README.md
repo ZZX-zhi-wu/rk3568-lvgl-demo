@@ -2,13 +2,14 @@
   <img src="https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/logo.png" width="128" alt="logo" />
 </p>
 
-<h1 align="center">RK3568 智能终端演示系统</h1>
+<h1 align="center">智趣魔方</h1>
 
 <p align="center">
-  基于 <b>RK3568</b> 开发板 + <b>LVGL</b> 图形库的智能终端综合演示项目，集登录、桌面、体感游戏、电子相册与传感器实验于一体。
+  基于 <b>RK3568</b> 开发板的<strong>体感多媒体娱乐终端</strong>（v1.0），集成登录、桌面、体感游戏、电子相册、传感器实验与系统设置，搭配 MPU6050 陀螺仪实现真正的"动手玩"。
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue" alt="version" />
   <img src="https://img.shields.io/badge/platform-RK3568%20(aarch64)-blue" alt="platform" />
   <img src="https://img.shields.io/badge/gui-LVGL-orange" alt="lvgl" />
   <img src="https://img.shields.io/badge/font-FreeType-green" alt="freetype" />
@@ -20,9 +21,9 @@
 
 ## 项目简介
 
-这是一个运行在 RK3568 开发板上的图形界面演示系统，使用 C 语言 + [LVGL](https://lvgl.io/) 图形库开发。系统启动后进入登录界面，登录后进入桌面 Launcher，可进入各应用：体感游戏中心（2048、贪吃蛇、重力滚球）、电子相册、传感器实验室和系统设置等。
+智趣魔方是一款运行在 RK3568 开发板上的体感多媒体娱乐终端，使用 C 语言 + [LVGL](https://lvgl.io/) 图形库开发。系统启动后进入登录界面（支持账号密码登录 + 游客模式），登录后进入桌面 Launcher，可进入 4 个应用：体感游戏中心、电子相册、传感器实验室和系统设置。
 
-项目最大的亮点是**体感交互**：借助板载 MPU6050 六轴传感器，通过倾斜/摇动开发板即可控制游戏，无需外接手柄或键盘。
+项目最大的亮点是**体感交互** —— 借助板载 MPU6050 六轴传感器，通过倾斜/摇动开发板即可控制游戏（2048 甩牌、重力滚球、贪吃蛇转向），无需外接手柄或键盘。首次进入游戏区会提示"将开发板水平放置 2 秒完成校准"，游戏区顶部还会实时显示陀螺仪就绪状态。
 
 ## 功能特性
 
@@ -96,11 +97,11 @@ rk3568_demo/
 
 | 登录界面 | 桌面主界面 |
 |:---:|:---:|
-| ![登录](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_login.png) | ![桌面](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_home.png) |
+| ![登录](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/login.png) | ![桌面](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/desktop.png) |
 
-| 游戏中心 | 电子相册 |
-|:---:|:---:|
-| ![游戏](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_game.png) | ![相册](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/bg_album.png) |
+| 体感游戏中心 | 电子相册 | 设置 |
+|:---:|:---:|:---:|
+| ![游戏](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/game-center.png) | ![相册](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/album.jpg) | ![设置](https://cdn.jsdelivr.net/gh/ZZX-zhi-wu/rk3568-lvgl-demo@main/docs/images/settings.png) |
 
 ## 编译与运行
 
